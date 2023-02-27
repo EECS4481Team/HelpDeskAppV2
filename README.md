@@ -1,6 +1,6 @@
-# HelpDeskAppV1
+# HelpDeskAppV2
 
-HelpDeskAppV1 is a web-based chat app that is in a pre-alpha build
+HelpDeskAppV2 is a web-based chat app that is in a alpha build
 
 ## Before You Start (Locally)
 
